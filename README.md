@@ -16,5 +16,5 @@
 
 <h2>Connect with me:</h2>
 
-- [linkedin](https://www.linkedin.com/in/genevievekallmeyer/)
-- [indeed](https://profile.indeed.com/p/ycnn8zf)
+- [LinkedIn](https://www.linkedin.com/in/genevievekallmeyer/)
+- [Indeed](https://profile.indeed.com/p/ycnn8zf)
