@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1>Hi, I'm Evey!</h1>
 
-<!--
-**eveykallmeyer/eveykallmeyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>MS Software Engineering student at Loyola University Chicago, BBA Information Systems, & BA French Language from Loyola University Chicago, Quinlan Honors</h2>
 
-Here are some ideas to get you started:
+<h2>Seeking roles in Software Engineering, Architecture, and Development, as well as Database Adminstration, and Analytics</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Projects:</h2>
+
+- <b>Java:</b>
+- <b>Python:</b>
+- <b>RStudio:</b>
+
+<h2>Publications:</h2>
+
+- [Gendered Endorsers' Impact on Consumers' Subconscious Visual Attention Using Eye-Tracking](https://ieeexplore.ieee.org/document/11131945)
+
+<h2>Connect with me:</h2>
+
+- [linkedin]: https://www.linkedin.com/in/genevievekallmeyer/
+- [indeed]: https://profile.indeed.com/p/ycnn8zf
