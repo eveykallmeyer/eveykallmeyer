@@ -1,8 +1,8 @@
 <h1>Hi, I'm Evey!</h1>
 
-<h2>MS Software Engineering student at Loyola University Chicago, BBA Information Systems, & BA French Language from Loyola University Chicago, Quinlan Honors</h2>
+<b>MS Software Engineering student at Loyola University Chicago, BBA Information Systems, & BA French Language from Loyola University Chicago, Quinlan Honors</b>
 
-<h2>Seeking roles in Software Engineering, Architecture, and Development, as well as Database Adminstration, and Analytics</h2>
+<b>Seeking roles in Software Engineering, Architecture, and Development, as well as Database Adminstration, and Analytics</b>
 
 <h2>Projects:</h2>
 
