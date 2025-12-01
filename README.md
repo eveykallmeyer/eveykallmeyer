@@ -2,7 +2,7 @@
 
 <b>MS Software Engineering student at Loyola University Chicago, BBA Information Systems, & BA French Language from Loyola University Chicago, Quinlan Honors</b>
 
-<b>Seeking roles in Software Engineering, Architecture, and Development, as well as Database Adminstration, and Analytics</b>
+<b>Seeking roles in Software Engineering, Architecture, and Development, as well as Business Intelligence, Strategy, and Analytics</b>
 
 <h2>Projects:</h2>
 
