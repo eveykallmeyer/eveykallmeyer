@@ -9,6 +9,10 @@
 - <b>Java:</b>
 - <b>Python:</b>
 - <b>RStudio:</b>
+- <b>SQL:</b>
+- <b>Unix/Linux:</b>
+- <b>Other:</b>
+  - [System Proposal Project](file:///C:/Users/elkal/OneDrive%20-%20Loyola%20University%20Chicago/LinkedIn%20and%20Resume/Systems%20Proposal%20Project.pdf)
 
 <h2>Publications:</h2>
 
