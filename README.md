@@ -4,8 +4,8 @@
 
 <h2>Projects:</h2>
 
-- [Data Structures Toolkit](https://github.com/eveykallmeyer/Data-Structures-Toolkit): Implementations of core data structures in Java, including AVL Trees, HAshMaps, Bloom Filters, Priority Queues, and Graphs.
-- [Algorithms Toolkit](https://github.com/eveykallmeyer/Algorithms-Toolkit): Solutions to classic algorithmic problems using sorting, greedy strategies, and divide-and-conquer approaches
+- [Data Structures Toolkit](https://github.com/eveykallmeyer/Data-Structures-Toolkit) : Implementations of core data structures in Java, including AVL Trees, HAshMaps, Bloom Filters, Priority Queues, and Graphs.
+- [Algorithms Toolkit](https://github.com/eveykallmeyer/Algorithms-Toolkit) : Solutions to classic algorithmic problems using sorting, greedy strategies, and divide-and-conquer approaches
 - <b>Other:</b>
   - [System Proposal Project](https://loyolauniversitychicago-my.sharepoint.com/:w:/g/personal/gkallmeyer_luc_edu/EbYBUWJF8FtJjHGqj-Z9rogBeohuZUVOt_QZgdrRMePCwA?e=WhWIdM)
 
