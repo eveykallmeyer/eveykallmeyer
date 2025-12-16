@@ -4,6 +4,8 @@
 
 <h2>Projects:</h2>
 
+- [Data Structures Toolkit]
+- [Algorithms Toolkit]
 - <b>Other:</b>
   - [System Proposal Project](https://loyolauniversitychicago-my.sharepoint.com/:w:/g/personal/gkallmeyer_luc_edu/EbYBUWJF8FtJjHGqj-Z9rogBeohuZUVOt_QZgdrRMePCwA?e=WhWIdM)
 
