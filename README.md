@@ -19,6 +19,6 @@
 
 <h2>Connect with me:</h2>
 
-- [Email](gkallmeyer@luc.edu)
+- <b>Email: gkallmeyer@luc.edu<b>
 - [LinkedIn](https://www.linkedin.com/in/genevievekallmeyer/)
 - [Indeed](https://profile.indeed.com/p/ycnn8zf)
